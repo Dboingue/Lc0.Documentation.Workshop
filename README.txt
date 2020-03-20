@@ -1,4 +1,7 @@
 # Top Topics Level
+Above all: 
+UI for repo editor is the oldest not yet updated with same goodies as Issues
+Therefore, Use Issues when creating your first markdown files, it has a toolbar (for us dummies).
 Documentation research workshop,  
 All topics in one version,
 Tentative WIP,

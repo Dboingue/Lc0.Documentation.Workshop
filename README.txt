@@ -10,11 +10,10 @@ Using GitHub repository folder hierarchies for topic hierarchies and Issues as c
 - Result of considering the google forum and Discord as alternative base plaforms.
 - Initial Choice of top topics by Dboingue, in case no other contributors.
 - Room for more via Issues and Collaboration, in case contributors
-- Many commitment contributory levels: 
+- Many degrees of contribution commitment possible: 
   - Issues don't need permission only a Github account, AFAIK.
-  - Becoming contributor add branches for new Topics
-  - Creating a fork, and creating branches there
-  - All of the above depending on tasks
+    - Creating a fork, and creating branches there, pull request
+  - All of the above depending on tasks, although Issues seems the less overheady path.
   - We ask that issues be tried first, please, as we believe in the strength of discussions
 
 + Concerns met by this choice of platform:

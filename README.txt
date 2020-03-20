@@ -12,6 +12,10 @@ Using GitHub repository folder hierarchies for topic hierarchies and Issues as c
 - Room for more via Issues and Collaboration, in case contributors
 - Many commitment contributory levels: 
   - Issues don't need permission only a Github account, AFAIK.
+  - Becoming contributor add branches for new Topics
+  - Creating a fork, and creating branches there
+  - All of the above depending on tasks
+  - We ask that issues be tried first, please, as we believe in the strength of discussions
 
 + Concerns met by this choice of platform:
   - Versioning, open source (content) protection, stable repository, collaboration flow,
@@ -27,11 +31,11 @@ Here TOC of Topics hierarchy
   - TOC also clickable linking to target folder or file
   - placeholder folder for unforseen but welcome contributed Tocis as
   
-+How to start if considering helping this project: 
-- UI for repo editor is the oldest not yet updated with same goodies as Issues UI
-  - Use Issues when creating your first markdown files, it has a toolbar (for us dummies).
-- Once familiar with markdown, 
-  - convert readme.txt to markdown, readme.md, it will then show at folder level
-  - or convert the issue to some repo directory level Readme.md if sub-topic
++ How to start if considering helping this project: 
+  - UI for repo editor is the oldest not yet updated with same goodies as Issues UI
+    - Use Issues when creating your first markdown files, it has a toolbar (for us dummies).
+  - Once familiar with markdown, 
+    - convert readme.txt to markdown, readme.md, it will then show at folder level
+    - or convert the issue to some repo directory level Readme.md if sub-topic
 
 

@@ -18,10 +18,14 @@ Using GitHub repository folder hierarchies for topic hierarchies and Issues as c
 
 + Concerns met by this choice of platform:
   - Versioning, open source (content) protection, stable repository, collaboration flow,
-    visibility, hyperlink based topic and discussion consistency, centralisation (of links),
-  - threadability at many level
+    visibility, hyperlink based topic, comments and issues consistency, centralisation (of links),
   - cross-link mechanisms allowing easy tracking back and forward though 
     web of content and discussions related to documenting the lc0 project.
+  - Threadbility within issues does not exist, emilated by cross-linking features together with repo hierarchy.
+    - only real forum for unconstrained discussion is google lc0 group.
+    - cross-talking but instant meeting mutliplayer chat is Discord server
+      - for eventual coordination and decision for official documentation workflow contributions
+      - and puntual few-posts-expecting questions arising here or on the forum, to the lc0 devs
 
 Here TOC of Topics hierarchy
 + here should be the echo of the folder structure as representing topic 
